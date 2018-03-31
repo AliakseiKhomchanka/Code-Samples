@@ -1,0 +1,96 @@
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] GoToMeeting
+[PLATFORM IDENTIFIER] gotomeeting
+[FIELD] DESCRIPTION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] accesscode
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] N/A
+[PLATFORM IDENTIFIER] N/A
+[FIELD] LOCATION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] pin
+[PIN FORMAT] [0-9]+#
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] N/A
+[PLATFORM IDENTIFIER] N/A
+[FIELD] LOCATION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] ,,
+[PIN FORMAT] [0-9]+#
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] N/A
+[PLATFORM IDENTIFIER] N/A
+[FIELD] LOCATION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] pin
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] N/A
+[PLATFORM IDENTIFIER] N/A
+[FIELD] LOCATION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] globalmeetpin
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] N/A
+[PLATFORM IDENTIFIER] N/A
+[FIELD] LOCATION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] pin
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] Skype
+[PLATFORM IDENTIFIER] skype
+[FIELD] DESCRIPTION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] iddeconférence
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] Skype
+[PLATFORM IDENTIFIER] joinskypemeeting
+[FIELD] DESCRIPTION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] conferenceid
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] Uber
+[PLATFORM IDENTIFIER] uberconference
+[FIELD] DESCRIPTION
+[NUMBER FORMAT] [0-9]+
+[PIN IDENTIFIER] N/A
+[PIN FORMAT] nopin
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] Webex
+[PLATFORM IDENTIFIER] joinwebexmeeting
+[FIELD] DESCRIPTION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] meetingnumberaccesscode
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] Zoom
+[PLATFORM IDENTIFIER] zoommeeting
+[FIELD] DESCRIPTION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] meetingid
+[PIN FORMAT] [0-9]+
+[PATTERN]------------------------------------------
+[VERSION] 1.0
+[PLATFORM] GoToMeeting
+[PLATFORM IDENTIFIER] gotomeeting
+[FIELD] DESCRIPTION
+[NUMBER FORMAT] \+[0-9]+
+[PIN IDENTIFIER] zugangscode
+[PIN FORMAT] [0-9]+
